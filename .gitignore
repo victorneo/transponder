@@ -1,0 +1,7 @@
+.env
+*.pyc
+*.mp3
+*.json
+*.gpt
+*.txt
+*.md
